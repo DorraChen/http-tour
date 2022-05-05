@@ -221,10 +221,10 @@ CDN，实际上就是一种代理，它代替源站服务器响应客户端的�
 ## 4. 网络协议分层
 
 (1)TCP/IP与OSI 参考模型(截取自《图解TCP/IP 协议.第5版》)
-[TCP/IP与OSI 参考模型(截取自《图解TCP/IP 协议.第5版》)](./img/网络分层.jpg)
+![TCP/IP与OSI 参考模型(截取自《图解TCP/IP 协议.第5版》)](./img/网络分层.jpg)
 
 (2)TCP/IP与OSI 参考模型(截取自极客时间)
-[TCP/IP与OSI 参考模型(截取自极客时间)](./img/OSI和TCPIP模型-极客时间.png)
+![TCP/IP与OSI 参考模型(截取自极客时间)](./img/OSI和TCPIP模型-极客时间.png)
 
 
 (3)TCP/IP 网络分层模型
